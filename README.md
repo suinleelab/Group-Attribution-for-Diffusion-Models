@@ -1,4 +1,4 @@
-# [An Efficient Framework for Crediting Data Contributors of Diffusion Models](https://openreview.net/pdf?id=9EqQC2ct4H) (ICLR2025)
+# [An Efficient Framework for Crediting Data Contributors of Diffusion Models](https://openreview.net/pdf?id=9EqQC2ct4H) (ICLR 2025)
 
 [![Website](https://img.shields.io/badge/🌐%20Project%20Page-Online-blue.svg)](https://q8888620002.github.io/contributor-attribution/)
 
